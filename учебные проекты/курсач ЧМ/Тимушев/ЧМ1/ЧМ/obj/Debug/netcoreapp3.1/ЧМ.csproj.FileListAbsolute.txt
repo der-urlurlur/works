@@ -1,0 +1,13 @@
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.csprojAssemblyReference.cache
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.AssemblyInfoInputs.cache
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.AssemblyInfo.cs
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.csproj.CoreCompileInputs.cache
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.exe
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.deps.json
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.runtimeconfig.json
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.runtimeconfig.dev.json
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.dll
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\bin\Debug\netcoreapp3.1\ЧМ.pdb
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.dll
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.pdb
+C:\Users\Jester\source\repos\ЧМ1\ЧМ\obj\Debug\netcoreapp3.1\ЧМ.genruntimeconfig.cache

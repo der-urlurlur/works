@@ -1,0 +1,12 @@
+C:\Users\Jester\source\repos\MO_ravnom\MO_ravnom\bin\Debug\netcoreapp3.1\MO_ravnom.exe
+C:\Users\Jester\source\repos\MO_ravnom\MO_ravnom\bin\Debug\netcoreapp3.1\MO_ravnom.deps.json
+C:\Users\Jester\source\repos\MO_ravnom\MO_ravnom\bin\Debug\netcoreapp3.1\MO_ravnom.runtimeconfig.json
+C:\Users\Jester\source\repos\MO_ravnom\MO_ravnom\bin\Debug\netcoreapp3.1\MO_ravnom.runtimeconfig.dev.json
+C:\Users\Jester\source\repos\MO_ravnom\MO_ravnom\bin\Debug\netcoreapp3.1\MO_ravnom.dll
+C:\Users\Jester\source\repos\MO_ravnom\MO_ravnom\bin\Debug\netcoreapp3.1\MO_ravnom.pdb
+C:\Users\Jester\source\repos\MO_ravnom\MO_ravnom\obj\Debug\netcoreapp3.1\MO_ravnom.AssemblyInfoInputs.cache
+C:\Users\Jester\source\repos\MO_ravnom\MO_ravnom\obj\Debug\netcoreapp3.1\MO_ravnom.AssemblyInfo.cs
+C:\Users\Jester\source\repos\MO_ravnom\MO_ravnom\obj\Debug\netcoreapp3.1\MO_ravnom.csproj.CoreCompileInputs.cache
+C:\Users\Jester\source\repos\MO_ravnom\MO_ravnom\obj\Debug\netcoreapp3.1\MO_ravnom.dll
+C:\Users\Jester\source\repos\MO_ravnom\MO_ravnom\obj\Debug\netcoreapp3.1\MO_ravnom.pdb
+C:\Users\Jester\source\repos\MO_ravnom\MO_ravnom\obj\Debug\netcoreapp3.1\MO_ravnom.genruntimeconfig.cache

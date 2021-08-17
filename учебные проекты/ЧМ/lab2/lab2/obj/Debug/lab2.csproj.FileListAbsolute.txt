@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2012\Projects\lab2\lab2\bin\Debug\lab2.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\lab2\lab2\bin\Debug\lab2.exe
+c:\users\admin\documents\visual studio 2012\Projects\lab2\lab2\bin\Debug\lab2.pdb
+c:\users\admin\documents\visual studio 2012\Projects\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\lab2\lab2\obj\Debug\lab2.exe
+c:\users\admin\documents\visual studio 2012\Projects\lab2\lab2\obj\Debug\lab2.pdb
+E:\чм\lab2\lab2\bin\Debug\lab2.exe.config
+E:\чм\lab2\lab2\bin\Debug\lab2.exe
+E:\чм\lab2\lab2\bin\Debug\lab2.pdb
+E:\чм\lab2\lab2\obj\Debug\lab2.exe
+E:\чм\lab2\lab2\obj\Debug\lab2.pdb
+H:\чм\lab2\lab2\bin\Debug\lab2.exe.config
+H:\чм\lab2\lab2\obj\Debug\lab2.exe
+H:\чм\lab2\lab2\obj\Debug\lab2.pdb

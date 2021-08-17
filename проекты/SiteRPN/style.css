@@ -1,0 +1,17 @@
+h1 {font-family:Tahoma;font-size:18pt;color:#000000;font-weight:bold;text-align:Center;margin-top:2px}
+h2 {font-family:Tahoma;font-size:14pt;color:#000000;font-weight:bold;margin-top:2px;margin-bottom:2px}
+table {font-size:100%;border-width:0;padding:0;width:100%;border:0pt solid #000000;border-collapse: collapse}
+th {color:#000000;background-color:#FFFFFF;text-align:left;vertical-align:middle;padding-right:6pt;white-space:nowrap;border-bottom:0pt solid #000000; border-left: 0pt; border-right: 0pt; border-top: 0pt; padding-left:6pt;padding-top:1pt;padding-bottom:1pt}
+tr {text-align:left;vertical-align:top}
+td {text-align:left;vertical-align:middle;color:#000000;background-color:#F0F0F0;padding-left:1pt;padding-right:1pt;padding-top:1pt;padding-bottom:1pt;border-bottom: 0pt;border-left: 0pt;border-top: 0pt;border-right: 0pt}
+li {display: inline-block;background: #495565;margin-right: -3px}
+a {color: #fff;display: block;padding: 10px 15;text-decoration: none}
+li:hover {background-color: #f8655f}
+text {padding-left:60pt}
+h1.about {font-family:Tahoma;font-size:14pt;color:#000000;font-weight:bold;text-align:Left;margin-right:3;padding-left:60pt}
+a.about {text-decoration:underline;color:blue;padding-left:60pt}
+progress {width: 100%}
+#circle_red{width: 30px;height: 30px;-webkit-border-radius: 15px;-moz-border-radius: 15px;border-radius: 15px;background: grey;}
+#circle_green{width: 30px;height: 30px;-webkit-border-radius: 15px;-moz-border-radius: 15px;border-radius: 15px;background: grey;}
+#circle_yellow{width: 30px;height: 30px;-webkit-border-radius: 15px;-moz-border-radius: 15px;border-radius: 15px;background: grey;}
+#circle_grey{width: 30px;height: 30px;-webkit-border-radius: 15px;-moz-border-radius: 15px;border-radius: 15px;background: grey;}

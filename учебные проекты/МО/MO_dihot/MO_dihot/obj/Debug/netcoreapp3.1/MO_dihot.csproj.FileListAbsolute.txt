@@ -1,0 +1,13 @@
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\bin\Debug\netcoreapp3.1\MO_dihot.exe
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\bin\Debug\netcoreapp3.1\MO_dihot.deps.json
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\bin\Debug\netcoreapp3.1\MO_dihot.runtimeconfig.json
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\bin\Debug\netcoreapp3.1\MO_dihot.runtimeconfig.dev.json
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\bin\Debug\netcoreapp3.1\MO_dihot.dll
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\bin\Debug\netcoreapp3.1\MO_dihot.pdb
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\obj\Debug\netcoreapp3.1\MO_dihot.csprojAssemblyReference.cache
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\obj\Debug\netcoreapp3.1\MO_dihot.AssemblyInfoInputs.cache
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\obj\Debug\netcoreapp3.1\MO_dihot.AssemblyInfo.cs
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\obj\Debug\netcoreapp3.1\MO_dihot.csproj.CoreCompileInputs.cache
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\obj\Debug\netcoreapp3.1\MO_dihot.dll
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\obj\Debug\netcoreapp3.1\MO_dihot.pdb
+C:\Users\Jester\source\repos\MO_dihot\MO_dihot\obj\Debug\netcoreapp3.1\MO_dihot.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+H:\чм\integral\integral\bin\Debug\integral.exe.config
+H:\чм\integral\integral\bin\Debug\integral.exe
+H:\чм\integral\integral\bin\Debug\integral.pdb
+H:\чм\integral\integral\obj\Debug\integral.csprojResolveAssemblyReference.cache
+H:\чм\integral\integral\obj\Debug\integral.exe
+H:\чм\integral\integral\obj\Debug\integral.pdb
+E:\чм\integral\integral\bin\Debug\integral.exe.config
+E:\чм\integral\integral\bin\Debug\integral.exe
+E:\чм\integral\integral\bin\Debug\integral.pdb
+E:\чм\integral\integral\obj\Debug\integral.csprojAssemblyReference.cache
+E:\чм\integral\integral\obj\Debug\integral.exe
+E:\чм\integral\integral\obj\Debug\integral.pdb

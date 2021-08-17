@@ -1,0 +1,32 @@
+div.a1:hover{background-color: navajowhite;width: 100px; height: min-content; margin: 0px}
+div.a2:hover{background-color: #a57122;width: 100px; height: min-content; margin: 0px}
+div.a3:hover{background-color: rgb(255, 173, 251);width: 100px; height: min-content; margin: 0px}
+div.a4:hover{background-color: rgb(255, 182, 173);width: 100px; height: min-content; margin: 0px}
+div.t3{width: 100px; border:8px solid lightskyblue}        
+hr.hr1{line-height: 0px ;width: 100; border:4px solid lightskyblue;margin: 0px}
+.task1
+{
+    text-align: right;
+}
+span.task1-green
+{
+    color:yellowgreen; font-style: oblique;
+}
+h1,h2
+{
+    color:red;
+}
+span.task1-black
+{
+    font-size: 150%;font-weight:900;
+}
+ol { list-style-type: none;}
+.task3
+{
+text-decoration: underline;
+color: cornflowerblue;
+}
+.task33
+{
+margin-left: 10px;
+}

@@ -1,0 +1,12 @@
+C:\Users\Student\source\repos\porazryad\porazryad\bin\Debug\porazryad.exe.config
+C:\Users\Student\source\repos\porazryad\porazryad\bin\Debug\porazryad.exe
+C:\Users\Student\source\repos\porazryad\porazryad\bin\Debug\porazryad.pdb
+C:\Users\Student\source\repos\porazryad\porazryad\obj\Debug\porazryad.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\porazryad\porazryad\obj\Debug\porazryad.Form1.resources
+C:\Users\Student\source\repos\porazryad\porazryad\obj\Debug\porazryad.Properties.Resources.resources
+C:\Users\Student\source\repos\porazryad\porazryad\obj\Debug\porazryad.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\porazryad\porazryad\obj\Debug\porazryad.exe
+C:\Users\Student\source\repos\porazryad\porazryad\obj\Debug\porazryad.pdb
+H:\мо\porazryad\porazryad\bin\Debug\porazryad.exe.config
+H:\мо\porazryad\porazryad\obj\Debug\porazryad.exe
+H:\мо\porazryad\porazryad\obj\Debug\porazryad.pdb

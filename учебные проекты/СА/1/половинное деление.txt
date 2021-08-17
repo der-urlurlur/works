@@ -1,0 +1,47 @@
+using System;
+
+namespace ЧМ
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Введите начало отрезка ");
+            double a = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Введите конец отрезка ");
+            double b = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Введите точность в формате (0,...1)   ");
+            double e = Convert.ToDouble(Console.ReadLine());
+            int ct = etc(e);
+            int n = 0;
+            double x;
+            while (Math.Abs(b - a) > e)
+            {
+                Console.WriteLine(n + ", " + a + ", " + b);
+                x = (a + b) / 2;
+                if (func(a) * func(x) > 0) a = x;
+                else b = x;
+                n++;
+            }
+            x = (a + b) / 2;
+            Console.WriteLine("Ответ: X = {0} ", Math.Round(x, ct));
+            Console.WriteLine("Итераций пройдено: {0}", n);
+        }
+
+        static double func(double x)
+        {
+            return Math.Pow(x, 3) + 4 * x - 6;
+        }
+        static int etc(double e)
+        {
+            int ct = 0;
+            while (e * 10 % 10 != 0)
+            {
+
+                e *= 10;
+                ct++;
+            }
+            return ct;
+        }
+    }
+}

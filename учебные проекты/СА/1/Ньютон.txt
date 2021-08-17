@@ -1,0 +1,59 @@
+using System;
+
+namespace ЧМ
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            Console.Write("Введите точность в формате (0,...1)   ");
+            double e = Convert.ToDouble(Console.ReadLine());
+            int ct = etc(e);
+                int n = 0;
+            double x, x1;
+            
+            x = 0;
+            
+            
+            
+                x1 = x-(func(x)/ffunc(x));
+                while (Math.Abs(func(x)) >= e)
+                {
+                    n++;
+                    x1 = x - (func(x) / ffunc(x));
+                    x = x1;
+                    Console.Write(n + "  ");
+                    Console.Write("Y'= " + func(x) + " ");
+                    Console.Write("Y''= " + ffunc(x) + " ");
+                    Console.Write("x= " + x + " ");
+                    Console.WriteLine("x1= " + x1 + "\n");
+                }
+            
+           
+                Console.WriteLine("Ответ: X = {0} ", Math.Round(x1, ct));
+                Console.WriteLine("Итераций пройдено: {0}", n);
+            
+        }
+
+        static double func(double x)
+        {
+            return Math.Pow(x, 3) + 4 * x - 6;
+        }
+        static int etc(double e)
+        {
+            int ct = 0;
+            while (e * 10 % 10 != 0)
+            {
+
+                e *= 10;
+                ct++;
+            }
+            return ct;
+        }
+        static double ffunc(double x)
+        {
+            return (Math.Pow(x, 2)*3 + 4);
+        }
+    }
+}

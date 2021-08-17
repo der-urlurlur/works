@@ -1,0 +1,10 @@
+C:\Users\Jester\source\repos\ЧМ1\ЧМ1\bin\Debug\ЧМ1.exe.config
+C:\Users\Jester\source\repos\ЧМ1\ЧМ1\bin\Debug\ЧМ1.exe
+C:\Users\Jester\source\repos\ЧМ1\ЧМ1\bin\Debug\ЧМ1.pdb
+C:\Users\Jester\source\repos\ЧМ1\ЧМ1\obj\Debug\ЧМ1.csprojAssemblyReference.cache
+C:\Users\Jester\source\repos\ЧМ1\ЧМ1\obj\Debug\ЧМ1.Form1.resources
+C:\Users\Jester\source\repos\ЧМ1\ЧМ1\obj\Debug\ЧМ1.Properties.Resources.resources
+C:\Users\Jester\source\repos\ЧМ1\ЧМ1\obj\Debug\ЧМ1.csproj.GenerateResource.cache
+C:\Users\Jester\source\repos\ЧМ1\ЧМ1\obj\Debug\ЧМ1.csproj.CoreCompileInputs.cache
+C:\Users\Jester\source\repos\ЧМ1\ЧМ1\obj\Debug\ЧМ1.exe
+C:\Users\Jester\source\repos\ЧМ1\ЧМ1\obj\Debug\ЧМ1.pdb

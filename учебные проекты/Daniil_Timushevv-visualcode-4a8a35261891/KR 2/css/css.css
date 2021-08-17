@@ -1,0 +1,125 @@
+.body1
+{
+    margin-top: 20px;
+    background-color: rgb(88, 88, 88);
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+	text-color: rgba(249, 235, 255, 0.961);
+	
+	font-family: cursive;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: lighter;
+	font-size: large;
+	line-height: 100%;
+	word-spacing: normal;
+	letter-spacing: normal;
+	text-decoration: none;
+	text-transform: none;
+	text-align: center;
+	text-indent: 0ex;
+
+    
+}
+
+        table {font-size: 20px;width: 100%; border-collapse: collapse;}
+    table th {color: #ffffff; font-weight: bold; background: #00bf80; padding: 5px}
+    table th tr td {border: 1px solid #01ab73; }
+    table tr td {border: 1px solid #e8e9eb;padding: 5px}
+    table tr:nth-child(1n) {background: #f4f4f4;}
+    table tr:hover {background: #ebffe8;}
+
+
+.main
+{
+    
+   
+    display: flex;
+    flex-direction: column;
+	
+	position: absolute;
+  margin:50px 25% 0 25%;
+  width:50%;
+    
+	text-align: center;
+    height: min-content;
+    min-width:min-content;
+	
+    
+}
+
+
+navbar
+{
+	width: 100%
+}
+   .link{color: #ffffff;}
+   .text{color: rgba(249, 235, 255, 0.961);}
+   .text3{color: rgba(214, 118, 255, 0.961);}
+   .li1{list-style-type: circle;margin: 2px; margin-left: 20px; color: #ffffff;}
+   .li2{list-style-type:decimal;margin: 2px; margin-left: 20px; color: #ffffff;}
+   .li3{list-style-type: none;margin: 2px; margin-left: 20px; color: #ffffff;}
+ .right4{
+     margin-top: 90px;
+ }
+ .inp{border: ridge;}
+ .sel{border: ridge;}
+ .textar{border: ridge;}
+ 
+ .input{
+	 margin-top: -1px;
+ }
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    border-right:1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.drop-shadow {
+    background: #9479fa;
+}
+ 
+.drop-shadow.top {
+    box-shadow: 0 -4px 2px -2px rgba(0,0,0,0.4)
+}
+ 
+.drop-shadow.right {
+    box-shadow: 4px 0 2px -2px rgba(0,0,0,0.4)
+}
+ 
+.drop-shadow.bottom {
+    box-shadow: 0 4px 2px -2px rgba(0,0,0,0.4)
+}
+ 
+.drop-shadow.left {
+    box-shadow: -4px 0 2px -2px rgba(0,0,0,0.4)
+}

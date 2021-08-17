@@ -1,0 +1,12 @@
+E:\численные методы\lab4\lab4\bin\Debug\lab4.exe.config
+E:\численные методы\lab4\lab4\bin\Debug\lab4.exe
+E:\численные методы\lab4\lab4\bin\Debug\lab4.pdb
+E:\численные методы\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+E:\численные методы\lab4\lab4\obj\Debug\lab4.exe
+E:\численные методы\lab4\lab4\obj\Debug\lab4.pdb
+E:\чм\lab4\lab4\bin\Debug\lab4.exe.config
+E:\чм\lab4\lab4\bin\Debug\lab4.exe
+E:\чм\lab4\lab4\bin\Debug\lab4.pdb
+E:\чм\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+E:\чм\lab4\lab4\obj\Debug\lab4.exe
+E:\чм\lab4\lab4\obj\Debug\lab4.pdb

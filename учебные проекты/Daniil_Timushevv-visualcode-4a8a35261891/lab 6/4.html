@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<script language="JavaScript">
+        {
+            var days = ['', 'Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота','Воскресенье'];
+            console.log("Задание 4");
+            console.log("---------");
+            a=parseInt(prompt("введите количество дней"));
+            x1=parseInt(prompt("сколько таблеток пить в будни?"));
+            x2=parseInt(prompt("сколько таблеток пить в выходные?"));
+            var date = new Date();
+            var d = getWeekDay(date);
+            var count=0;
+            console.log("Сегодня "+days[d]);
+            for (let index = -a; index <=0; index=index+3) {
+                console.log(days[d]);
+                if (d==6|d==7)
+                {
+                console.log("Выпить "+x2);
+                count=count+x2;
+                }
+                else
+                {
+                    console.log("Выпить "+x1);
+                count=count+x1;    
+                }
+                d=d+3;
+                if (d>7)
+                d=d-7;
+                
+            }
+            console.log("всего нужно "+count+" таблеток");
+            function getWeekDay(date) {
+            date = date || new Date();
+            var days = [7, 1, 2, 3, 4, 5, 6];
+            var day = date.getDay();
+            return days[day];}
+        }
+</script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\lab2\ex2\bin\Debug\ex2.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\lab2\ex2\bin\Debug\ex2.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\lab2\ex2\bin\Debug\ex2.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\lab2\ex2\obj\Debug\ex2.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\lab2\ex2\obj\Debug\ex2.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\lab2\ex2\obj\Debug\ex2.csprojResolveAssemblyReference.cache
+E:\чм\lab2\ex2\bin\Debug\ex2.exe.config
+E:\чм\lab2\ex2\bin\Debug\ex2.exe
+E:\чм\lab2\ex2\bin\Debug\ex2.pdb
+E:\чм\lab2\ex2\obj\Debug\ex2.csprojAssemblyReference.cache
+E:\чм\lab2\ex2\obj\Debug\ex2.exe
+E:\чм\lab2\ex2\obj\Debug\ex2.pdb

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ru">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+	<script>
+		var xhr = new XMLHttpRequest(), responseArr = [], target;
+		var timer = setInterval(function() {xhr.open('GET', 'site.json', true); xhr.send();}, 3000);
+		xhr.onreadystatechange = function() {
+			if (this.readyState == 4 && this.status == 200) {
+				responseArr = JSON.parse(this.responseText);
+				responseArr.forEach(function (item, i , responseArr) {
+					document.getElementById(item['id']).innerHTML = item['val'];
+				});
+			}
+		};
+	</script>
+	  <style>
+		.raz {
+		  text-align: right;
+		}
+		.raz div {
+		  display: inline-block; 
+		  width: 1em;
+		  max-width: 100%;
+		  min-height: 2em;
+		  border: 1px solid orange;
+		  vertical-align: middle;
+		  text-align: start;
+		  background: #fff5d7;
+		}
+	  </style>
+	<table width="100%" border="1">
+	  <tbody>
+		<tr>
+		  <th rowspan="2" width="10%"><p class="MsoNormal" align="left"><img alt="Intera logo" src="intera.png" style="border: 0px solid ; width: 160px; height: 66px; float:left; margin: 0px 0px;"></p></th>
+		  <th width="20%" style="vertical-align: bottom"><h2>Пользователь:</h2></th>
+		  <th width="55%" style="vertical-align: bottom"><h1> Система мониторинга РПН </h1></th>
+		  <th rowspan="2" width="10%"><div class="raz"><div id="circle_grey"></div><div id="circle_grey"></div><div id="circle_green"></div></div></th>
+		  <th width="5%" rowspan="2"><div style="border: solid; text-align: center"><h2 id="pol"></h2></div></th>
+		</tr>
+		<tr>
+			<th id="user" style="vertical-align: top"></th>
+			<th style="text-align: center; vertical-align: top"><h2 id="rpn"></h2></th>
+		</tr>
+	  </tbody>
+	</table>
+  </body>
+</html>

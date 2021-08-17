@@ -1,0 +1,58 @@
+.img{
+    overflow: hide;
+    padding: 0;
+    position: relative;
+    width:256px;
+    height:256px;
+    background: #ffffff;
+    border: 1px solid #000;
+    border-radius:3px;
+    z-index: 0;
+    
+}
+.label{
+    color: rgb(255, 0, 0);
+    opacity: 0;
+    font-size: 24px;
+    position: absolute;
+    left:30%;
+    top:46%;
+    z-index: 1;
+}
+
+.label2{
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    font-size: 24px;
+    position: absolute;
+    left:60%;
+    top:86%;
+    z-index: 1;
+}
+.label0{
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    font-size: 12px;
+    position: absolute;
+    left:80%;
+    top:1%;
+    z-index: 1;
+}
+.wrap ol {
+    list-style-position: inside;
+    column-count: 2;
+    list-style-type: none;
+    height: 1000px;
+    max-width: 1000px;
+  }
+
+.img img{
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+    max-width:100%;
+    max-height: 100%;
+    z-index: 0;
+    
+}

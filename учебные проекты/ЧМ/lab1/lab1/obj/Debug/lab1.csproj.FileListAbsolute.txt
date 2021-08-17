@@ -1,0 +1,22 @@
+c:\users\admin\documents\visual studio 2012\Projects\lab1\lab1\bin\Debug\lab1.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\lab1\lab1\bin\Debug\lab1.exe
+c:\users\admin\documents\visual studio 2012\Projects\lab1\lab1\bin\Debug\lab1.pdb
+c:\users\admin\documents\visual studio 2012\Projects\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\lab1\lab1\obj\Debug\lab1.exe
+c:\users\admin\documents\visual studio 2012\Projects\lab1\lab1\obj\Debug\lab1.pdb
+E:\чм\lab1\lab1\bin\Debug\lab1.exe.config
+E:\чм\lab1\lab1\bin\Debug\lab1.exe
+E:\чм\lab1\lab1\bin\Debug\lab1.pdb
+E:\чм\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+E:\чм\lab1\lab1\obj\Debug\lab1.exe
+E:\чм\lab1\lab1\obj\Debug\lab1.pdb
+H:\чм\lab1\lab1\bin\Debug\lab1.exe.config
+H:\чм\lab1\lab1\obj\Debug\lab1.exe
+H:\чм\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\lab1\obj\Debug\lab1.pdb

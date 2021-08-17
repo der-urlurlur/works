@@ -1,0 +1,115 @@
+body{ padding:.5em; font-family:arial; }
+
+label{ padding:.2em .5em; }
+label:hover{ background:#ccc; cursor:pointer; }
+input:checked + label{ font-weight:bold; background:#ccc; }       
+
+    div.header {
+    display: flex;
+	background: #ffffff;
+    
+    justify-content: space-evenly;
+    width: 90%;
+    margin: 0px 5% 0px 5%;}
+    div.header-itm {
+    background: #2e5b61;  
+    font-size: 1rem;     
+    color: #eee;     
+    margin: 5px;  
+    height: 100px;}
+
+    .main {
+       
+    display: flex;
+    width: 90%;
+    height: 500px;
+    font-size: 1rem;
+    margin: 0 5% 0 5%;}
+    .main div {
+    font-size: 2vw;
+    color: white;}
+
+    .main-left {
+        
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 25%;
+    height: 81%;
+    flex-wrap: wrap;
+
+    flex-grow: 1;}
+    .main-left div{
+    
+    font-size: 1vw;
+    min-height: 50px;
+    width: 100%;
+    margin: 5px;
+    justify-content: space-between;}
+    .item1 {
+        
+        margin: 5px;
+        background: #2e5b61;} 
+
+    .main-right {
+    width: 75%;
+    height: 100%;
+   
+  
+    justify-content: space-between;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: space-between;}
+    .main-right-top{
+        position: relative;
+        width: 80%;
+        font-size: .25rem;
+        max-width: 1000px;
+        margin: 5px 5% 0 20%;
+        min-height: 50px;
+        background-color: rgb(234, 241, 167);}
+    .main-right-mid{
+        margin-top: 20px;
+        display: flex;
+        height: 50%;
+        flex-wrap: wrap;}
+    .main-right-mid div{
+        flex-wrap: wrap;
+        width: 75px;
+        margin: 20px 0 0 5%;
+        height: 75px;}
+    .inline{
+        background-color: rgb(161, 214, 161);}
+    .main-right-bot{margin-top: 20px;
+        position: relative;
+        display: flex;
+        
+        justify-content: space-between;
+        flex-wrap: wrap;}
+    .inline-bot{
+        
+        width: 40%;
+        min-height: 50px;
+        max-height: 200px;
+        margin:5px 0 0 20px;
+        bottom: 0cm;
+        background-color: grey;}
+        
+   .footer{margin-top: 20px;
+    position: relative;
+    display: flex;
+    width: 60%;
+    margin-left: 3%;
+    justify-content:left;
+    flex-wrap: wrap;}
+   .footer-inline{
+    width: 25%;
+    min-height: 50px;
+    max-height: 200px;
+    margin:5px 0 0 20px;
+    bottom: 0cm; 
+    background-color: lavenderblush;}
+ 
+  
+

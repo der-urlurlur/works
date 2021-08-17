@@ -1,0 +1,29 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\lab1\part2\bin\Debug\part2.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\lab1\part2\bin\Debug\part2.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\lab1\part2\bin\Debug\part2.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\lab1\part2\obj\Debug\part2.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\lab1\part2\obj\Debug\part2.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\lab1\part2\obj\Debug\part2.pdb
+E:\чм\lab1\part2\bin\Debug\part2.exe.config
+E:\чм\lab1\part2\bin\Debug\part2.exe
+E:\чм\lab1\part2\bin\Debug\part2.pdb
+E:\чм\lab1\part2\obj\Debug\part2.csprojAssemblyReference.cache
+E:\чм\lab1\part2\obj\Debug\part2.exe
+E:\чм\lab1\part2\obj\Debug\part2.pdb
+H:\чм\lab1\part2\bin\Debug\part2.exe.config
+H:\чм\lab1\part2\obj\Debug\part2.exe
+H:\чм\lab1\part2\obj\Debug\part2.pdb
+D:\чм\lab1\part2\bin\Debug\part2.exe.config
+D:\чм\lab1\part2\bin\Debug\part2.exe
+D:\чм\lab1\part2\bin\Debug\part2.pdb
+D:\чм\lab1\part2\obj\Debug\part2.csprojAssemblyReference.cache
+D:\чм\lab1\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+D:\чм\lab1\part2\obj\Debug\part2.exe
+D:\чм\lab1\part2\obj\Debug\part2.pdb
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\part2\bin\Debug\part2.exe.config
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\part2\bin\Debug\part2.exe
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\part2\bin\Debug\part2.pdb
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\part2\obj\Debug\part2.csprojAssemblyReference.cache
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\part2\obj\Debug\part2.csproj.CoreCompileInputs.cache
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\part2\obj\Debug\part2.exe
+C:\Users\Jester\Desktop\учеба\ЧМ\lab1\part2\obj\Debug\part2.pdb

@@ -1,0 +1,23 @@
+c:\users\admin\documents\visual studio 2012\Projects\lab3\lab3\bin\Debug\lab3.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\lab3\lab3\bin\Debug\lab3.exe
+c:\users\admin\documents\visual studio 2012\Projects\lab3\lab3\bin\Debug\lab3.pdb
+c:\users\admin\documents\visual studio 2012\Projects\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\lab3\lab3\obj\Debug\lab3.exe
+c:\users\admin\documents\visual studio 2012\Projects\lab3\lab3\obj\Debug\lab3.pdb
+E:\чм\lab3\lab3\bin\Debug\lab3.exe.config
+E:\чм\lab3\lab3\bin\Debug\lab3.exe
+E:\чм\lab3\lab3\bin\Debug\lab3.pdb
+E:\чм\lab3\lab3\obj\Debug\lab3.exe
+E:\чм\lab3\lab3\obj\Debug\lab3.pdb
+H:\чм\lab3\lab3\bin\Debug\lab3.exe.config
+H:\чм\lab3\lab3\obj\Debug\lab3.exe
+H:\чм\lab3\lab3\obj\Debug\lab3.pdb
+H:\чм\lab3\lab3\bin\Debug\lab3.exe
+H:\чм\lab3\lab3\bin\Debug\lab3.pdb
+H:\чм\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+F:\чм\lab3\lab3\bin\Debug\lab3.exe.config
+F:\чм\lab3\lab3\bin\Debug\lab3.exe
+F:\чм\lab3\lab3\bin\Debug\lab3.pdb
+F:\чм\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+F:\чм\lab3\lab3\obj\Debug\lab3.exe
+F:\чм\lab3\lab3\obj\Debug\lab3.pdb
